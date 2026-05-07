@@ -15,8 +15,8 @@ namespace ProFlashlightPlus
         internal new static ManualLogSource Logger { get; private set; } = null!;
         internal static bool UIOpen = false;
 
-        internal const float DefaultIntensityValue = 100f;
-        internal const float DefaultAngleValue     = 60f;
+        internal const float DefaultIntensityValue = 200f;
+        internal const float DefaultAngleValue     = 120f;
         internal const float DefaultR             = 1f;
         internal const float DefaultG             = 1f;
         internal const float DefaultB             = 1f;
